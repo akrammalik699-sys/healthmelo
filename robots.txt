@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://legendary-llama-0aca4c.netlify.app/sitemap.xml

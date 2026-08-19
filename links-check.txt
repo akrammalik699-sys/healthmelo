@@ -1,0 +1,4640 @@
+﻿
+index.html:16:<a 
+href="./index.htm
+l">Home</a> |
+index.html:17:<a 
+href="./pages/hea
+lth/index.html">H
+ealth</a> |
+index.html:18:<a 
+href="./nutrition
+/index.html">Nutr
+ition</a> |
+index.html:19:<a 
+href="./fitness/i
+ndex.html">Fitnes
+s</a> |
+index.html:20:<a 
+href="./tools/ind
+ex.html">Health 
+Tools</a>
+index.html:30:<li
+><a href="./pages
+/health/index.htm
+l">Health 
+Guides</a></li>
+index.html:31:<li
+><a href="./nutri
+tion/index.html">
+Nutrition</a></li
+>
+index.html:32:<li
+><a href="./fitne
+ss/index.html">Fi
+tness &amp; 
+Exercise</a></li>
+index.html:33:<li
+><a href="./tools
+/index.html">Heal
+th Calculators</a
+></li>
+index.html:38:<li
+><a href="./tools
+/bmi/index.html">
+BMI Calculator</a
+></li>
+index.html:39:<li
+><a href="./tools
+/calorie/index.ht
+ml">Calorie Calcu
+lator</a></li>
+index.html:40:<li
+><a href="./tools
+/bmr/index.html">
+BMR Calculator</a
+></li>
+index.html:41:<li
+><a href="./tools
+/water-intake/ind
+ex.html">Water 
+Intake Calculator
+</a></li>
+index.html:42:<li
+><a href="./tools
+/ideal-weight/ind
+ex.html">Ideal 
+Weight Calculator
+</a></li>
+content\en\index.
+html:208:<a 
+class="logo" href
+="../../frontend/
+index.html">
+content\en\index.
+html:214:<a href=
+"../../frontend/i
+ndex.html">Home</
+a>
+content\en\index.
+html:215:<a href=
+"../../pages/heal
+th/index.html">He
+alth</a>
+content\en\index.
+html:216:<a href=
+"../../pages/nutr
+ition/index.html"
+>Nutrition</a>
+content\en\index.
+html:217:<a href=
+"../../pages/fitn
+ess/index.html">F
+itness</a>
+content\en\index.
+html:218:<a href=
+"../../pages/hi/i
+ndex.html">हिंदी<
+/a>
+content\en\index.
+html:246:<a 
+class="card" href
+="../health/sympt
+oms/index.html">
+content\en\index.
+html:258:<a 
+class="card" href
+="../health/condi
+tions/index.html"
+>
+content\en\index.
+html:270:<a 
+class="card" href
+="../health/preve
+ntion/index.html"
+>
+content\en\index.
+html:282:<a 
+class="card" href
+="../health/care/
+index.html">
+content\en\index.
+html:310:<a href=
+"../../pages/nutr
+ition/index.html"
+>
+content\en\index.
+html:314:<a href=
+"../../pages/fitn
+ess/index.html">
+content\en\index.
+html:334:<a href=
+"../../tools/bmi/
+index.html">
+content\en\index.
+html:338:<a href=
+"../../tools/bmr/
+index.html">
+content\en\index.
+html:342:<a href=
+"../../tools/calo
+rie/index.html">
+content\en\index.
+html:346:<a href=
+"../../tools/wate
+r/index.html">
+content\en\index.
+html:350:<a href=
+"../../tools/idea
+l-weight/index.ht
+ml">
+content\fitness\i
+ndex.html:209:<a 
+class="logo" href
+="../../frontend/
+index.html">
+content\fitness\i
+ndex.html:215:<a 
+href="../../front
+end/index.html">H
+ome</a>
+content\fitness\i
+ndex.html:216:<a 
+href="../../pages
+/health/index.htm
+l">Health</a>
+content\fitness\i
+ndex.html:217:<a 
+href="../../pages
+/nutrition/index.
+html">Nutrition</
+a>
+content\fitness\i
+ndex.html:218:<a 
+href="../../pages
+/fitness/index.ht
+ml">Fitness</a>
+content\fitness\i
+ndex.html:219:<a 
+href="../../pages
+/hi/index.html">ह
+िंदी</a>
+content\fitness\i
+ndex.html:368:<a 
+href="../../tools
+/bmi/index.html">
+content\fitness\i
+ndex.html:372:<a 
+href="../../tools
+/bmr/index.html">
+content\fitness\i
+ndex.html:376:<a 
+href="../../tools
+/calorie/index.ht
+ml">
+content\fitness\i
+ndex.html:380:<a 
+href="../../tools
+/water/index.html
+">
+content\fitness\i
+ndex.html:384:<a 
+href="../../tools
+/ideal-weight/ind
+ex.html">
+content\health\ca
+re\index.html:202
+:<a class="logo" 
+href="../../../fr
+ontend/index.html
+">
+content\health\ca
+re\index.html:208
+:<a href="../../.
+./frontend/index.
+html">Home</a>
+content\health\ca
+re\index.html:209
+:<a href="../../.
+./pages/health/in
+dex.html">Health<
+/a>
+content\health\ca
+re\index.html:210
+:<a href="../../.
+./pages/nutrition
+/index.html">Nutr
+ition</a>
+content\health\ca
+re\index.html:211
+:<a href="../../.
+./pages/fitness/i
+ndex.html">Fitnes
+s</a>
+content\health\ca
+re\index.html:212
+:<a href="../../.
+./pages/hi/index.
+html">हिंदी</a>
+content\health\ca
+re\index.html:356
+:<a href="../symp
+toms/index.html">
+content\health\ca
+re\index.html:360
+:<a href="../cond
+itions/index.html
+">
+content\health\ca
+re\index.html:364
+:<a href="../prev
+ention/index.html
+">
+content\health\ca
+re\index.html:368
+:<a href="../../.
+./pages/nutrition
+/index.html">
+content\health\ca
+re\index.html:372
+:<a href="../../.
+./pages/fitness/i
+ndex.html">
+content\health\co
+nditions\index.ht
+ml:246:<a 
+class="logo" href
+="../../../fronte
+nd/index.html">
+content\health\co
+nditions\index.ht
+ml:252:<a href=".
+./../../frontend/
+index.html">Home<
+/a>
+content\health\co
+nditions\index.ht
+ml:254:<a href=".
+./../../pages/hea
+lth/index.html">
+content\health\co
+nditions\index.ht
+ml:258:<a href=".
+./../../pages/nut
+rition/index.html
+">
+content\health\co
+nditions\index.ht
+ml:262:<a href=".
+./../../pages/fit
+ness/index.html">
+content\health\co
+nditions\index.ht
+ml:266:<a href=".
+./../../pages/too
+ls/index.html">
+content\health\co
+nditions\index.ht
+ml:270:<a href=".
+./../../pages/hi/
+index.html">
+content\health\co
+nditions\index.ht
+ml:552:<a 
+class="tool" href
+="../../../tools/
+bmi/index.html">
+content\health\co
+nditions\index.ht
+ml:563:<a 
+class="tool" href
+="../../../tools/
+bmr/index.html">
+content\health\co
+nditions\index.ht
+ml:574:<a 
+class="tool" href
+="../../../tools/
+calorie/index.htm
+l">
+content\health\co
+nditions\index.ht
+ml:619:<a href=".
+./../../frontend/
+index.html">Home<
+/a>
+content\health\co
+nditions\index.ht
+ml:621:<a href=".
+./../../pages/hea
+lth/index.html">
+content\health\co
+nditions\index.ht
+ml:625:<a href=".
+./../../pages/nut
+rition/index.html
+">
+content\health\co
+nditions\index.ht
+ml:629:<a href=".
+./../../pages/fit
+ness/index.html">
+content\health\co
+nditions\index.ht
+ml:633:<a href=".
+./../../pages/too
+ls/index.html">
+content\health\co
+nditions\index.ht
+ml:637:<a href=".
+./../../pages/hi/
+index.html">
+content\health\pr
+evention\index.ht
+ml:255:<a 
+class="logo" href
+="../../../fronte
+nd/index.html">
+content\health\pr
+evention\index.ht
+ml:261:<a href=".
+./../../frontend/
+index.html">Home<
+/a>
+content\health\pr
+evention\index.ht
+ml:263:<a href=".
+./../../pages/hea
+lth/index.html">
+content\health\pr
+evention\index.ht
+ml:267:<a href=".
+./../../pages/nut
+rition/index.html
+">
+content\health\pr
+evention\index.ht
+ml:271:<a href=".
+./../../pages/fit
+ness/index.html">
+content\health\pr
+evention\index.ht
+ml:275:<a href=".
+./../../pages/too
+ls/index.html">
+content\health\pr
+evention\index.ht
+ml:279:<a href=".
+./../../pages/hi/
+index.html">
+content\health\pr
+evention\index.ht
+ml:567:<a 
+class="tool" href
+="../../../tools/
+bmi/index.html">
+content\health\pr
+evention\index.ht
+ml:578:<a 
+class="tool" href
+="../../../tools/
+bmr/index.html">
+content\health\pr
+evention\index.ht
+ml:589:<a 
+class="tool" href
+="../../../tools/
+water/index.html"
+>
+content\health\pr
+evention\index.ht
+ml:635:<a href=".
+./../../frontend/
+index.html">Home<
+/a>
+content\health\pr
+evention\index.ht
+ml:637:<a href=".
+./../../pages/hea
+lth/index.html">
+content\health\pr
+evention\index.ht
+ml:641:<a href=".
+./../../pages/nut
+rition/index.html
+">
+content\health\pr
+evention\index.ht
+ml:645:<a href=".
+./../../pages/fit
+ness/index.html">
+content\health\pr
+evention\index.ht
+ml:649:<a href=".
+./../../pages/too
+ls/index.html">
+content\health\pr
+evention\index.ht
+ml:653:<a href=".
+./../../pages/hi/
+index.html">
+content\health\sy
+mptoms\index.html
+:246:<a 
+class="logo" href
+="../../../fronte
+nd/index.html">
+content\health\sy
+mptoms\index.html
+:252:<a href="../
+../../frontend/in
+dex.html">Home</a
+>
+content\health\sy
+mptoms\index.html
+:254:<a href="../
+../../pages/healt
+h/index.html">
+content\health\sy
+mptoms\index.html
+:258:<a href="../
+../../pages/nutri
+tion/index.html">
+content\health\sy
+mptoms\index.html
+:262:<a href="../
+../../pages/fitne
+ss/index.html">
+content\health\sy
+mptoms\index.html
+:266:<a href="../
+../../pages/tools
+/index.html">
+content\health\sy
+mptoms\index.html
+:270:<a href="../
+../../pages/hi/in
+dex.html">
+content\health\sy
+mptoms\index.html
+:533:<a 
+class="tool" href
+="../../../tools/
+bmi/index.html">
+content\health\sy
+mptoms\index.html
+:544:<a 
+class="tool" href
+="../../../tools/
+bmr/index.html">
+content\health\sy
+mptoms\index.html
+:555:<a 
+class="tool" href
+="../../../tools/
+water/index.html"
+>
+content\health\sy
+mptoms\index.html
+:600:<a href="../
+../../frontend/in
+dex.html">Home</a
+>
+content\health\sy
+mptoms\index.html
+:602:<a href="../
+../../pages/healt
+h/index.html">
+content\health\sy
+mptoms\index.html
+:606:<a href="../
+../../pages/nutri
+tion/index.html">
+content\health\sy
+mptoms\index.html
+:610:<a href="../
+../../pages/fitne
+ss/index.html">
+content\health\sy
+mptoms\index.html
+:614:<a href="../
+../../pages/tools
+/index.html">
+content\health\sy
+mptoms\index.html
+:618:<a href="../
+../../pages/hi/in
+dex.html">
+content\hi\index.
+html:241:<a 
+class="logo" href
+="../../frontend/
+index.html">
+content\hi\index.
+html:247:<a href=
+"../../frontend/i
+ndex.html">Home</
+a>
+content\hi\index.
+html:249:<a href=
+"../nutrition/ind
+ex.html">पोषण</a>
+content\hi\index.
+html:250:<a href=
+"../../pages/fitn
+ess/index.html">फ
+िटनेस</a>
+content\hi\index.
+html:251:<a href=
+"../hi/index.html
+">हिंदी</a>
+content\hi\index.
+html:306:<a 
+class="tool" href
+="../../content/h
+ealth/symptoms/in
+dex.html">
+content\hi\index.
+html:322:<a 
+class="tool" href
+="../../content/h
+ealth/conditions/
+index.html">
+content\hi\index.
+html:338:<a 
+class="tool" href
+="../nutrition/in
+dex.html">
+content\hi\index.
+html:354:<a 
+class="tool" href
+="../../pages/fit
+ness/index.html">
+content\hi\index.
+html:374:<a 
+class="tool" href
+="../../tools/bmi
+/index.html">
+content\hi\index.
+html:378:<a 
+class="tool" href
+="../../tools/bmr
+/index.html">
+content\hi\index.
+html:382:<a 
+class="tool" href
+="../../tools/cal
+orie/index.html">
+content\hi\index.
+html:386:<a 
+class="tool" href
+="../../tools/wat
+er/index.html">
+content\hi\index.
+html:390:<a 
+class="tool" href
+="../../tools/ide
+al-weight/index.h
+tml">
+content\hi\index.
+html:445:<a href=
+"../../tools/wate
+r/index.html">Wat
+er Intake 
+Calculator</a>
+content\hi\index.
+html:554:<a href=
+"../../frontend/i
+ndex.html">Home</
+a>
+content\hi\index.
+html:556:<a href=
+"../nutrition/ind
+ex.html">पोषण</a>
+content\hi\index.
+html:557:<a href=
+"../../pages/fitn
+ess/index.html">फ
+िटनेस</a>
+content\hi\index.
+html:558:<a href=
+"../hi/index.html
+">हिंदी</a>
+content\hindi\ind
+ex.html:208:<a 
+class="logo" href
+="../../frontend/
+index.html">
+content\hindi\ind
+ex.html:214:<a hr
+ef="../../fronten
+d/index.html">होम
+</a>
+content\hindi\ind
+ex.html:215:<a hr
+ef="../../pages/h
+ealth/index.html"
+>स्वास्थ्य</a>
+content\hindi\ind
+ex.html:216:<a hr
+ef="../../pages/n
+utrition/index.ht
+ml">पोषण</a>
+content\hindi\ind
+ex.html:217:<a hr
+ef="../../pages/f
+itness/index.html
+">फिटनेस</a>
+content\hindi\ind
+ex.html:218:<a hr
+ef="../../pages/h
+i/index.html">हिं
+दी</a>
+content\hindi\ind
+ex.html:247:<a 
+class="card" href
+="../health/sympt
+oms/index.html">
+content\hindi\ind
+ex.html:259:<a 
+class="card" href
+="../health/condi
+tions/index.html"
+>
+content\hindi\ind
+ex.html:271:<a 
+class="card" href
+="../health/preve
+ntion/index.html"
+>
+content\hindi\ind
+ex.html:283:<a 
+class="card" href
+="../health/care/
+index.html">
+content\hindi\ind
+ex.html:315:<a hr
+ef="../../pages/n
+utrition/index.ht
+ml">
+content\hindi\ind
+ex.html:335:<a hr
+ef="../../pages/f
+itness/index.html
+">
+content\hindi\ind
+ex.html:355:<a hr
+ef="../../tools/b
+mi/index.html">
+content\hindi\ind
+ex.html:359:<a hr
+ef="../../tools/b
+mr/index.html">
+content\hindi\ind
+ex.html:363:<a hr
+ef="../../tools/c
+alorie/index.html
+">
+content\hindi\ind
+ex.html:367:<a hr
+ef="../../tools/w
+ater/index.html">
+content\hindi\ind
+ex.html:371:<a hr
+ef="../../tools/i
+deal-weight/index
+.html">
+content\nutrition
+\index.html:243:<
+a class="logo" hr
+ef="../../fronten
+d/index.html">
+content\nutrition
+\index.html:249:<
+a href="../../fro
+ntend/index.html"
+>Home</a>
+content\nutrition
+\index.html:251:<
+a href="../nutrit
+ion/index.html">N
+utrition</a>
+content\nutrition
+\index.html:252:<
+a href="../../pag
+es/fitness/index.
+html">Fitness</a>
+content\nutrition
+\index.html:253:<
+a href="../hi/ind
+ex.html">हिंदी</a
+>
+content\nutrition
+\index.html:468:<
+a href="../../too
+ls/bmi/index.html
+">
+content\nutrition
+\index.html:472:<
+a href="../../too
+ls/calorie/index.
+html">
+content\nutrition
+\index.html:476:<
+a href="../../too
+ls/water/index.ht
+ml">
+content\nutrition
+\index.html:480:<
+a href="../../too
+ls/bmr/index.html
+">
+content\nutrition
+\index.html:484:<
+a href="../../too
+ls/ideal-weight/i
+ndex.html">
+content\nutrition
+\index.html:488:<
+a href="../../pag
+es/tools/index.ht
+ml">
+content\nutrition
+\index.html:554:<
+a href="../../too
+ls/water/index.ht
+ml">Water Intake 
+Calculator</a>
+content\nutrition
+\index.html:578:<
+a href="../../fro
+ntend/index.html"
+>Home</a>
+content\nutrition
+\index.html:580:<
+a href="../nutrit
+ion/index.html">N
+utrition</a>
+content\nutrition
+\index.html:581:<
+a href="../../pag
+es/fitness/index.
+html">Fitness</a>
+content\nutrition
+\index.html:582:<
+a href="../hi/ind
+ex.html">हिंदी</a
+>
+frontend\index.ht
+ml:317:<a 
+class="logo" href
+="index.html">
+frontend\index.ht
+ml:323:    <a hre
+f="index.html">Ho
+me</a>
+frontend\index.ht
+ml:324:    <a hre
+f="../pages/healt
+h/index.html">Hea
+lth</a>
+frontend\index.ht
+ml:325:    <a hre
+f="../pages/nutri
+tion/index.html">
+Nutrition</a>
+frontend\index.ht
+ml:326:    <a hre
+f="../pages/fitne
+ss/index.html">Fi
+tness</a>
+frontend\index.ht
+ml:327:    <a hre
+f="../pages/hi/in
+dex.html">हिंदी</
+a>
+frontend\index.ht
+ml:355:<a 
+class="view-all" 
+href="../pages/to
+ols/index.html">
+frontend\index.ht
+ml:364:<a class="
+tool-card" href="
+../tools/bmi/inde
+x.html">
+frontend\index.ht
+ml:371:<a class="
+tool-card" href="
+../tools/calorie/
+index.html">
+frontend\index.ht
+ml:378:<a class="
+tool-card" href="
+../tools/water/in
+dex.html">
+frontend\index.ht
+ml:385:<a class="
+tool-card" href="
+../tools/bmr/inde
+x.html">
+frontend\index.ht
+ml:392:<a class="
+tool-card" href="
+../tools/ideal-we
+ight/index.html">
+frontend\index.ht
+ml:409:<a 
+class="view-all" 
+href="../pages/he
+alth/index.html">
+frontend\index.ht
+ml:419:href="../c
+ontent/health/sym
+ptoms/index.html"
+>
+frontend\index.ht
+ml:424:href="../c
+ontent/health/con
+ditions/index.htm
+l">
+frontend\index.ht
+ml:429:href="../p
+ages/nutrition/in
+dex.html">
+frontend\index.ht
+ml:434:href="../p
+ages/fitness/inde
+x.html">
+frontend\index.ht
+ml:439:href="../c
+ontent/health/car
+e/index.html">
+frontend\index.ht
+ml:444:href="../c
+ontent/health/pre
+vention/index.htm
+l">
+frontend\index.ht
+ml:449:href="../c
+ontent/health/pre
+vention/index.htm
+l">
+frontend\index.ht
+ml:454:href="../c
+ontent/health/car
+e/index.html">
+frontend\index.ht
+ml:530:<a href="i
+ndex.html">Home</
+a>
+frontend\index.ht
+ml:532:<a href=".
+./pages/health/in
+dex.html">
+frontend\index.ht
+ml:536:<a href=".
+./pages/tools/ind
+ex.html">
+frontend\index.ht
+ml:540:<a href=".
+./pages/nutrition
+/index.html">
+frontend\index.ht
+ml:551:<a href=".
+./tools/bmi/index
+.html">
+frontend\index.ht
+ml:555:<a href=".
+./tools/bmr/index
+.html">
+frontend\index.ht
+ml:559:<a href=".
+./tools/calorie/i
+ndex.html">
+frontend\index.ht
+ml:563:<a href=".
+./tools/water/ind
+ex.html">
+frontend\index.ht
+ml:567:<a href=".
+./tools/ideal-wei
+ght/index.html">
+frontend\index.ht
+ml:578:<a href=".
+./pages/health/in
+dex.html">
+pages\about\index
+.html:161:<a 
+class="logo" href
+="../../frontend/
+index.html">
+pages\about\index
+.html:168:<a href
+="../../frontend/
+index.html">
+pages\about\index
+.html:172:<a href
+="../health/index
+.html">
+pages\about\index
+.html:176:<a href
+="../nutrition/in
+dex.html">
+pages\about\index
+.html:180:<a href
+="../fitness/inde
+x.html">
+pages\about\index
+.html:184:<a href
+="../hi/index.htm
+l">
+pages\about\index
+.html:261:<a href
+="../../tools/bmi
+/index.html">
+pages\about\index
+.html:267:<a href
+="../../tools/bmr
+/index.html">
+pages\about\index
+.html:273:<a href
+="../../tools/cal
+orie/index.html">
+pages\about\index
+.html:279:<a href
+="../../tools/wat
+er/index.html">
+pages\about\index
+.html:285:<a href
+="../../tools/ide
+al-weight/index.h
+tml">
+pages\about\index
+.html:371:<a href
+="../disclaimer/i
+ndex.html">
+pages\about\index
+.html:388:<a href
+="../contact/inde
+x.html">
+pages\contact\ind
+ex.html:170:<a 
+class="logo" href
+="../../frontend/
+index.html">
+pages\contact\ind
+ex.html:177:<a hr
+ef="../../fronten
+d/index.html">Hom
+e</a>
+pages\contact\ind
+ex.html:179:<a hr
+ef="../health/ind
+ex.html">
+pages\contact\ind
+ex.html:183:<a hr
+ef="../nutrition/
+index.html">
+pages\contact\ind
+ex.html:187:<a hr
+ef="../fitness/in
+dex.html">
+pages\contact\ind
+ex.html:191:<a hr
+ef="../hi/index.h
+tml">
+pages\contact\ind
+ex.html:305:<a hr
+ef="../privacy/in
+dex.html">
+pages\contact\ind
+ex.html:313:<a hr
+ef="../disclaimer
+/index.html">
+pages\disclaimer\
+index.html:156:<a
+ class="logo" hre
+f="../../frontend
+/index.html">
+pages\disclaimer\
+index.html:163:<a
+ href="../../fron
+tend/index.html">
+Home</a>
+pages\disclaimer\
+index.html:165:<a
+ href="../health/
+index.html">
+pages\disclaimer\
+index.html:169:<a
+ href="../nutriti
+on/index.html">
+pages\disclaimer\
+index.html:173:<a
+ href="../fitness
+/index.html">
+pages\disclaimer\
+index.html:177:<a
+ href="../hi/inde
+x.html">
+pages\disclaimer\
+index.html:365:<a
+ href="../contact
+/index.html">
+pages\fitness\ind
+ex.html:1567:<a h
+ref="../../fronte
+nd/index.html" 
+class="logo">
+pages\fitness\ind
+ex.html:1587:<a h
+ref="../../fronte
+nd/index.html">
+pages\fitness\ind
+ex.html:1591:<a h
+ref="../health/in
+dex.html">
+pages\fitness\ind
+ex.html:1595:<a h
+ref="../nutrition
+/index.html">
+pages\fitness\ind
+ex.html:1603:<a h
+ref="../../tools/
+index.html">
+pages\fitness\ind
+ex.html:1607:<a h
+ref="../hi/index.
+html">
+pages\fitness\ind
+ex.html:1624:<a h
+ref="../../fronte
+nd/index.html">
+pages\fitness\ind
+ex.html:2469:    
+href="../../tools
+/bmi/index.html"
+pages\fitness\ind
+ex.html:2489:    
+href="../../tools
+/calorie/index.ht
+ml"
+pages\fitness\ind
+ex.html:2509:    
+href="../../tools
+/water/index.html
+"
+pages\fitness\ind
+ex.html:2529:    
+href="../../tools
+/bmr/index.html"
+pages\fitness\ind
+ex.html:2549:    
+href="../../tools
+/ideal-weight/ind
+ex.html"
+pages\fitness\ind
+ex.html:2615:    
+href="../health/i
+ndex.html"
+pages\fitness\ind
+ex.html:2640:    
+href="../nutritio
+n/index.html"
+pages\fitness\ind
+ex.html:2665:    
+href="../../tools
+/index.html"
+pages\fitness\ind
+ex.html:2924:<a h
+ref="../../fronte
+nd/index.html">
+pages\fitness\ind
+ex.html:2928:<a h
+ref="../health/in
+dex.html">
+pages\fitness\ind
+ex.html:2932:<a h
+ref="../nutrition
+/index.html">
+pages\fitness\ind
+ex.html:2940:<a h
+ref="../../tools/
+index.html">
+pages\fitness\ind
+ex.html:2944:<a h
+ref="../hi/index.
+html">
+pages\fitness\ind
+ex.html:2957:<a h
+ref="../../tools/
+bmi/index.html">
+pages\fitness\ind
+ex.html:2961:<a h
+ref="../../tools/
+calorie/index.htm
+l">
+pages\fitness\ind
+ex.html:2965:<a h
+ref="../../tools/
+bmr/index.html">
+pages\fitness\ind
+ex.html:2969:<a h
+ref="../../tools/
+water/index.html"
+>
+pages\fitness\ind
+ex.html:2973:<a h
+ref="../../tools/
+ideal-weight/inde
+x.html">
+pages\fitness\ind
+ex.html:2987:<a h
+ref="../../fronte
+nd/index.html">
+pages\fitness\ind
+ex.html:2991:<a h
+ref="../health/in
+dex.html">
+pages\fitness\ind
+ex.html:2995:<a h
+ref="../nutrition
+/index.html">
+pages\fitness\ind
+ex.html:3003:<a h
+ref="../../tools/
+index.html">
+pages\fitness\ind
+ex.html:3007:<a h
+ref="../hi/index.
+html">
+pages\health\inde
+x.html:832:      
+<a class="brand" 
+href="../../front
+end/index.html">
+pages\health\inde
+x.html:837:      
+  <a href="../../
+frontend/index.ht
+ml">Home</a>
+pages\health\inde
+x.html:839:      
+  <a href="../nut
+rition/index.html
+">Nutrition</a>
+pages\health\inde
+x.html:840:      
+  <a href="../fit
+ness/index.html">
+Fitness</a>
+pages\health\inde
+x.html:841:      
+  <a href="../../
+tools/index.html"
+>Tools</a>
+pages\health\inde
+x.html:842:      
+  <a href="../hi/
+index.html">à¤¹à¤
+¿à¤‚à¤¦à¥€</a>
+pages\health\inde
+x.html:853:    
+<a href="../../fr
+ontend/index.html
+">Home</a>
+pages\health\inde
+x.html:966:      
+    <a class="car
+d-link" href="../
+nutrition/index.h
+tml">
+pages\health\inde
+x.html:978:      
+    <a class="car
+d-link" href="../
+fitness/index.htm
+l">
+pages\health\inde
+x.html:990:      
+    <a class="car
+d-link" href="../
+../tools/index.ht
+ml">
+pages\health\inde
+x.html:1019:     
+       <a href="g
+uides/headache/in
+dex.html">
+pages\health\inde
+x.html:1027:     
+     <a class="ca
+rd-link" href="gu
+ides/headache/ind
+ex.html">
+pages\health\inde
+x.html:1035:     
+       <a href="g
+uides/fever/index
+.html">
+pages\health\inde
+x.html:1043:     
+     <a class="ca
+rd-link" href="gu
+ides/fever/index.
+html">
+pages\health\inde
+x.html:1051:     
+       <a href="g
+uides/cough/index
+.html">
+pages\health\inde
+x.html:1059:     
+     <a class="ca
+rd-link" href="gu
+ides/cough/index.
+html">
+pages\health\inde
+x.html:1067:     
+       <a href="g
+uides/fatigue/ind
+ex.html">
+pages\health\inde
+x.html:1075:     
+     <a class="ca
+rd-link" href="gu
+ides/fatigue/inde
+x.html">
+pages\health\inde
+x.html:1083:     
+       <a href="g
+uides/sore-throat
+/index.html">
+pages\health\inde
+x.html:1091:     
+     <a class="ca
+rd-link" href="gu
+ides/sore-throat/
+index.html">
+pages\health\inde
+x.html:1099:     
+       <a href="g
+uides/nausea/inde
+x.html">
+pages\health\inde
+x.html:1107:     
+     <a class="ca
+rd-link" href="gu
+ides/nausea/index
+.html">
+pages\health\inde
+x.html:1115:     
+       <a href="g
+uides/dizziness/i
+ndex.html">
+pages\health\inde
+x.html:1123:     
+     <a class="ca
+rd-link" href="gu
+ides/dizziness/in
+dex.html">
+pages\health\inde
+x.html:1131:     
+       <a href="g
+uides/stomach-pai
+n/index.html">
+pages\health\inde
+x.html:1139:     
+     <a class="ca
+rd-link" href="gu
+ides/stomach-pain
+/index.html">
+pages\health\inde
+x.html:1147:     
+       <a href="g
+uides/constipatio
+n/index.html">
+pages\health\inde
+x.html:1155:     
+     <a class="ca
+rd-link" href="gu
+ides/constipation
+/index.html">
+pages\health\inde
+x.html:1163:     
+       <a href="g
+uides/diarrhea/in
+dex.html">
+pages\health\inde
+x.html:1171:     
+     <a class="ca
+rd-link" href="gu
+ides/diarrhea/ind
+ex.html">
+pages\health\inde
+x.html:1179:     
+       <a href="g
+uides/bloating/in
+dex.html">
+pages\health\inde
+x.html:1187:     
+     <a class="ca
+rd-link" href="gu
+ides/bloating/ind
+ex.html">
+pages\health\inde
+x.html:1195:     
+       <a href="g
+uides/back-pain/i
+ndex.html">
+pages\health\inde
+x.html:1203:     
+     <a class="ca
+rd-link" href="gu
+ides/back-pain/in
+dex.html">
+pages\health\inde
+x.html:1211:     
+       <a href="g
+uides/joint-pain/
+index.html">
+pages\health\inde
+x.html:1219:     
+     <a class="ca
+rd-link" href="gu
+ides/joint-pain/i
+ndex.html">
+pages\health\inde
+x.html:1227:     
+       <a href="g
+uides/common-cold
+/index.html">
+pages\health\inde
+x.html:1235:     
+     <a class="ca
+rd-link" href="gu
+ides/common-cold/
+index.html">
+pages\health\inde
+x.html:1243:     
+       <a href="g
+uides/dehydration
+/index.html">
+pages\health\inde
+x.html:1251:     
+     <a class="ca
+rd-link" href="gu
+ides/dehydration/
+index.html">
+pages\health\inde
+x.html:1259:     
+       <a href="g
+uides/sleep/index
+.html">
+pages\health\inde
+x.html:1267:     
+     <a class="ca
+rd-link" href="gu
+ides/sleep/index.
+html">
+pages\health\inde
+x.html:1275:     
+       <a href="g
+uides/stress/inde
+x.html">
+pages\health\inde
+x.html:1283:     
+     <a class="ca
+rd-link" href="gu
+ides/stress/index
+.html">
+pages\health\inde
+x.html:1291:     
+       <a href="g
+uides/hydration/i
+ndex.html">
+pages\health\inde
+x.html:1299:     
+     <a class="ca
+rd-link" href="gu
+ides/hydration/in
+dex.html">
+pages\health\inde
+x.html:1307:     
+       <a href="g
+uides/healthy-hab
+its/index.html">
+pages\health\inde
+x.html:1315:     
+     <a class="ca
+rd-link" href="gu
+ides/healthy-habi
+ts/index.html">
+pages\health\inde
+x.html:1574:     
+     <a class="ca
+rd-link" href="..
+/../tools/bmi/ind
+ex.html">
+pages\health\inde
+x.html:1583:     
+     <a class="ca
+rd-link" href="..
+/../tools/bmr/ind
+ex.html">
+pages\health\inde
+x.html:1592:     
+     <a class="ca
+rd-link" href="..
+/../tools/calorie
+/index.html">
+pages\health\inde
+x.html:1601:     
+     <a class="ca
+rd-link" href="..
+/../tools/water/i
+ndex.html">
+pages\health\inde
+x.html:1610:     
+     <a class="ca
+rd-link" href="..
+/../tools/ideal-w
+eight/index.html"
+>
+pages\health\inde
+x.html:1757:     
+     <a href="../
+../frontend/index
+.html">Home</a>
+pages\health\inde
+x.html:1759:     
+     <a href="../
+nutrition/index.h
+tml">Nutrition</a
+>
+pages\health\inde
+x.html:1760:     
+     <a href="../
+fitness/index.htm
+l">Fitness</a>
+pages\health\inde
+x.html:1761:     
+     <a href="../
+../tools/index.ht
+ml">Health 
+Tools</a>
+pages\health\inde
+x.html:1762:     
+     <a href="../
+hi/index.html">à¤
+¹à¤¿à¤‚à¤¦à¥€</a>
+pages\health\inde
+x.html:1770:     
+     <a href="../
+../tools/bmi/inde
+x.html">
+pages\health\inde
+x.html:1774:     
+     <a href="../
+../tools/calorie/
+index.html">
+pages\health\inde
+x.html:1778:     
+     <a href="../
+../tools/bmr/inde
+x.html">
+pages\health\inde
+x.html:1782:     
+     <a href="../
+../tools/water/in
+dex.html">
+pages\health\inde
+x.html:1786:     
+     <a href="../
+../tools/ideal-we
+ight/index.html">
+pages\health\guid
+es\back-pain\inde
+x.html:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\back-pain\inde
+x.html:23:<a href
+="../../../index.
+html">Home</a>
+pages\health\guid
+es\back-pain\inde
+x.html:24:<a href
+="../../index.htm
+l">Health</a>
+pages\health\guid
+es\back-pain\inde
+x.html:25:<a href
+="../../../nutrit
+ion/index.html">N
+utrition</a>
+pages\health\guid
+es\back-pain\inde
+x.html:26:<a href
+="../../../fitnes
+s/index.html">Fit
+ness</a>
+pages\health\guid
+es\back-pain\inde
+x.html:27:<a href
+="../../../../too
+ls/index.html">To
+ols</a>
+pages\health\guid
+es\back-pain\inde
+x.html:28:<a href
+="../../../hi/ind
+ex.html">हिंदी</a
+>
+pages\health\guid
+es\back-pain\inde
+x.html:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › Pain & 
+Mobility</div>
+pages\health\guid
+es\back-pain\inde
+x.html:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\back-pain\inde
+x.html:61:<p><a h
+ref="../headache/
+index.html">Heada
+che</a> · <a href
+="../fever/index.
+html">Fever</a> 
+· <a href="../cou
+gh/index.html">Co
+ugh</a> · <a href
+="../fatigue/inde
+x.html">Fatigue</
+a> · <a href="../
+sleep/index.html"
+>Sleep</a> · <a h
+ref="../hydration
+/index.html">Hydr
+ation</a></p>
+pages\health\guid
+es\back-pain\inde
+x.html:71:<footer
+><div class="wrap
+"><strong>HealthM
+elo</strong><p>He
+alth Made Simple 
+— clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\bloating\index
+.html:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\bloating\index
+.html:23:<a href=
+"../../../index.h
+tml">Home</a>
+pages\health\guid
+es\bloating\index
+.html:24:<a href=
+"../../index.html
+">Health</a>
+pages\health\guid
+es\bloating\index
+.html:25:<a href=
+"../../../nutriti
+on/index.html">Nu
+trition</a>
+pages\health\guid
+es\bloating\index
+.html:26:<a href=
+"../../../fitness
+/index.html">Fitn
+ess</a>
+pages\health\guid
+es\bloating\index
+.html:27:<a href=
+"../../../../tool
+s/index.html">Too
+ls</a>
+pages\health\guid
+es\bloating\index
+.html:28:<a href=
+"../../../hi/inde
+x.html">हिंदी</a>
+pages\health\guid
+es\bloating\index
+.html:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Digestive 
+Health</div>
+pages\health\guid
+es\bloating\index
+.html:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\bloating\index
+.html:61:<p><a hr
+ef="../headache/i
+ndex.html">Headac
+he</a> · <a href=
+"../fever/index.h
+tml">Fever</a> · 
+<a href="../cough
+/index.html">Coug
+h</a> · <a href="
+../fatigue/index.
+html">Fatigue</a>
+ · <a href="../sl
+eep/index.html">S
+leep</a> · <a hre
+f="../hydration/i
+ndex.html">Hydrat
+ion</a></p>
+pages\health\guid
+es\bloating\index
+.html:71:<footer>
+<div class="wrap"
+><strong>HealthMe
+lo</strong><p>Hea
+lth Made Simple 
+— clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\cold\index.htm
+l:195:<a 
+class="logo" href
+="../../../index.
+html">HealthMelo<
+/a>
+pages\health\guid
+es\cold\index.htm
+l:198:<a href="..
+/../../index.html
+">Home</a>
+pages\health\guid
+es\cold\index.htm
+l:199:<a href="..
+/../index.html">H
+ealth</a>
+pages\health\guid
+es\cold\index.htm
+l:200:<a href="..
+/../../nutrition/
+index.html">Nutri
+tion</a>
+pages\health\guid
+es\cold\index.htm
+l:201:<a href="..
+/../../fitness/in
+dex.html">Fitness
+</a>
+pages\health\guid
+es\cold\index.htm
+l:202:<a href="..
+/../../../tools/i
+ndex.html">Tools<
+/a>
+pages\health\guid
+es\cold\index.htm
+l:203:<a href="..
+/../../hi/index.h
+tml">हिंदी</a>
+pages\health\guid
+es\cold\index.htm
+l:212:<a href="..
+/../../index.html
+">Home</a> ›
+pages\health\guid
+es\cold\index.htm
+l:213:<a href="..
+/../index.html">H
+ealth</a> ›
+pages\health\guid
+es\cold\index.htm
+l:407:<a href="..
+/../index.html"><
+strong>Health Gui
+des</strong></a>
+pages\health\guid
+es\cold\index.htm
+l:412:<a href="..
+/../../nutrition/
+index.html"><stro
+ng>Nutrition</str
+ong></a>
+pages\health\guid
+es\cold\index.htm
+l:417:<a href="..
+/../../fitness/in
+dex.html"><strong
+>Fitness</strong>
+</a>
+pages\health\guid
+es\cold\index.htm
+l:422:<a href="..
+/../../../tools/i
+ndex.html"><stron
+g>Health Tools</s
+trong></a>
+pages\health\guid
+es\cold\index.htm
+l:462:<a href="..
+/../../index.html
+">Home</a> ·
+pages\health\guid
+es\cold\index.htm
+l:463:<a href="..
+/../index.html">H
+ealth</a> ·
+pages\health\guid
+es\cold\index.htm
+l:464:<a href="..
+/../../nutrition/
+index.html">Nutri
+tion</a> ·
+pages\health\guid
+es\cold\index.htm
+l:465:<a href="..
+/../../fitness/in
+dex.html">Fitness
+</a> ·
+pages\health\guid
+es\cold\index.htm
+l:466:<a href="..
+/../../../tools/i
+ndex.html">Tools<
+/a>
+pages\health\guid
+es\common-cold\in
+dex.html:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\common-cold\in
+dex.html:23:<a hr
+ef="../../../inde
+x.html">Home</a>
+pages\health\guid
+es\common-cold\in
+dex.html:24:<a hr
+ef="../../index.h
+tml">Health</a>
+pages\health\guid
+es\common-cold\in
+dex.html:25:<a hr
+ef="../../../nutr
+ition/index.html"
+>Nutrition</a>
+pages\health\guid
+es\common-cold\in
+dex.html:26:<a hr
+ef="../../../fitn
+ess/index.html">F
+itness</a>
+pages\health\guid
+es\common-cold\in
+dex.html:27:<a hr
+ef="../../../../t
+ools/index.html">
+Tools</a>
+pages\health\guid
+es\common-cold\in
+dex.html:28:<a hr
+ef="../../../hi/i
+ndex.html">हिंदी<
+/a>
+pages\health\guid
+es\common-cold\in
+dex.html:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Everyday 
+Health</div>
+pages\health\guid
+es\common-cold\in
+dex.html:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\common-cold\in
+dex.html:61:<p><a
+ href="../headach
+e/index.html">Hea
+dache</a> · <a hr
+ef="../fever/inde
+x.html">Fever</a>
+ · <a href="../co
+ugh/index.html">C
+ough</a> · <a hre
+f="../fatigue/ind
+ex.html">Fatigue<
+/a> · <a href="..
+/sleep/index.html
+">Sleep</a> · <a 
+href="../hydratio
+n/index.html">Hyd
+ration</a></p>
+pages\health\guid
+es\common-cold\in
+dex.html:71:<foot
+er><div class="wr
+ap"><strong>Healt
+hMelo</strong><p>
+Health Made 
+Simple — clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\constipation\i
+ndex.html:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\constipation\i
+ndex.html:23:<a h
+ref="../../../ind
+ex.html">Home</a>
+pages\health\guid
+es\constipation\i
+ndex.html:24:<a h
+ref="../../index.
+html">Health</a>
+pages\health\guid
+es\constipation\i
+ndex.html:25:<a h
+ref="../../../nut
+rition/index.html
+">Nutrition</a>
+pages\health\guid
+es\constipation\i
+ndex.html:26:<a h
+ref="../../../fit
+ness/index.html">
+Fitness</a>
+pages\health\guid
+es\constipation\i
+ndex.html:27:<a h
+ref="../../../../
+tools/index.html"
+>Tools</a>
+pages\health\guid
+es\constipation\i
+ndex.html:28:<a h
+ref="../../../hi/
+index.html">हिंदी
+</a>
+pages\health\guid
+es\constipation\i
+ndex.html:32:<div
+ 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Digestive 
+Health</div>
+pages\health\guid
+es\constipation\i
+ndex.html:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\constipation\i
+ndex.html:61:<p><
+a href="../headac
+he/index.html">He
+adache</a> · <a h
+ref="../fever/ind
+ex.html">Fever</a
+> · <a href="../c
+ough/index.html">
+Cough</a> · <a hr
+ef="../fatigue/in
+dex.html">Fatigue
+</a> · <a href=".
+./sleep/index.htm
+l">Sleep</a> · 
+<a href="../hydra
+tion/index.html">
+Hydration</a></p>
+pages\health\guid
+es\constipation\i
+ndex.html:71:<foo
+ter><div class="w
+rap"><strong>Heal
+thMelo</strong><p
+>Health Made 
+Simple — clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\cough\index.ht
+ml:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\cough\index.ht
+ml:23:<a href="..
+/../../index.html
+">Home</a>
+pages\health\guid
+es\cough\index.ht
+ml:24:<a href="..
+/../index.html">H
+ealth</a>
+pages\health\guid
+es\cough\index.ht
+ml:25:<a href="..
+/../../nutrition/
+index.html">Nutri
+tion</a>
+pages\health\guid
+es\cough\index.ht
+ml:26:<a href="..
+/../../fitness/in
+dex.html">Fitness
+</a>
+pages\health\guid
+es\cough\index.ht
+ml:27:<a href="..
+/../../../tools/i
+ndex.html">Tools<
+/a>
+pages\health\guid
+es\cough\index.ht
+ml:28:<a href="..
+/../../hi/index.h
+tml">हिंदी</a>
+pages\health\guid
+es\cough\index.ht
+ml:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Symptoms</div>
+pages\health\guid
+es\cough\index.ht
+ml:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\cough\index.ht
+ml:61:<p><a href=
+"../headache/inde
+x.html">Headache<
+/a> · <a href="..
+/fever/index.html
+">Fever</a> · <a 
+href="../cough/in
+dex.html">Cough</
+a> · <a href="../
+fatigue/index.htm
+l">Fatigue</a> · 
+<a href="../sleep
+/index.html">Slee
+p</a> · <a href="
+../hydration/inde
+x.html">Hydration
+</a></p>
+pages\health\guid
+es\cough\index.ht
+ml:71:<footer><di
+v class="wrap"><s
+trong>HealthMelo<
+/strong><p>Health
+ Made Simple — 
+clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\dehydration\in
+dex.html:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\dehydration\in
+dex.html:23:<a hr
+ef="../../../inde
+x.html">Home</a>
+pages\health\guid
+es\dehydration\in
+dex.html:24:<a hr
+ef="../../index.h
+tml">Health</a>
+pages\health\guid
+es\dehydration\in
+dex.html:25:<a hr
+ef="../../../nutr
+ition/index.html"
+>Nutrition</a>
+pages\health\guid
+es\dehydration\in
+dex.html:26:<a hr
+ef="../../../fitn
+ess/index.html">F
+itness</a>
+pages\health\guid
+es\dehydration\in
+dex.html:27:<a hr
+ef="../../../../t
+ools/index.html">
+Tools</a>
+pages\health\guid
+es\dehydration\in
+dex.html:28:<a hr
+ef="../../../hi/i
+ndex.html">हिंदी<
+/a>
+pages\health\guid
+es\dehydration\in
+dex.html:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Wellness</div>
+pages\health\guid
+es\dehydration\in
+dex.html:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\dehydration\in
+dex.html:61:<p><a
+ href="../headach
+e/index.html">Hea
+dache</a> · <a hr
+ef="../fever/inde
+x.html">Fever</a>
+ · <a href="../co
+ugh/index.html">C
+ough</a> · <a hre
+f="../fatigue/ind
+ex.html">Fatigue<
+/a> · <a href="..
+/sleep/index.html
+">Sleep</a> · <a 
+href="../hydratio
+n/index.html">Hyd
+ration</a></p>
+pages\health\guid
+es\dehydration\in
+dex.html:71:<foot
+er><div class="wr
+ap"><strong>Healt
+hMelo</strong><p>
+Health Made 
+Simple — clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\diabetes\index
+.html:195:<a 
+class="logo" href
+="../../../index.
+html">HealthMelo<
+/a>
+pages\health\guid
+es\diabetes\index
+.html:198:<a href
+="../../../index.
+html">Home</a>
+pages\health\guid
+es\diabetes\index
+.html:199:<a href
+="../../index.htm
+l">Health</a>
+pages\health\guid
+es\diabetes\index
+.html:200:<a href
+="../../../nutrit
+ion/index.html">N
+utrition</a>
+pages\health\guid
+es\diabetes\index
+.html:201:<a href
+="../../../fitnes
+s/index.html">Fit
+ness</a>
+pages\health\guid
+es\diabetes\index
+.html:202:<a href
+="../../../../too
+ls/index.html">To
+ols</a>
+pages\health\guid
+es\diabetes\index
+.html:203:<a href
+="../../../hi/ind
+ex.html">हिंदी</a
+>
+pages\health\guid
+es\diabetes\index
+.html:212:<a href
+="../../../index.
+html">Home</a> ›
+pages\health\guid
+es\diabetes\index
+.html:213:<a href
+="../../index.htm
+l">Health</a> ›
+pages\health\guid
+es\diabetes\index
+.html:407:<a href
+="../../index.htm
+l"><strong>Health
+ Guides</strong><
+/a>
+pages\health\guid
+es\diabetes\index
+.html:412:<a href
+="../../../nutrit
+ion/index.html"><
+strong>Nutrition<
+/strong></a>
+pages\health\guid
+es\diabetes\index
+.html:417:<a href
+="../../../fitnes
+s/index.html"><st
+rong>Fitness</str
+ong></a>
+pages\health\guid
+es\diabetes\index
+.html:422:<a href
+="../../../../too
+ls/index.html"><s
+trong>Health Tool
+s</strong></a>
+pages\health\guid
+es\diabetes\index
+.html:462:<a href
+="../../../index.
+html">Home</a> ·
+pages\health\guid
+es\diabetes\index
+.html:463:<a href
+="../../index.htm
+l">Health</a> ·
+pages\health\guid
+es\diabetes\index
+.html:464:<a href
+="../../../nutrit
+ion/index.html">N
+utrition</a> ·
+pages\health\guid
+es\diabetes\index
+.html:465:<a href
+="../../../fitnes
+s/index.html">Fit
+ness</a> ·
+pages\health\guid
+es\diabetes\index
+.html:466:<a href
+="../../../../too
+ls/index.html">To
+ols</a>
+pages\health\guid
+es\diarrhea\index
+.html:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\diarrhea\index
+.html:23:<a href=
+"../../../index.h
+tml">Home</a>
+pages\health\guid
+es\diarrhea\index
+.html:24:<a href=
+"../../index.html
+">Health</a>
+pages\health\guid
+es\diarrhea\index
+.html:25:<a href=
+"../../../nutriti
+on/index.html">Nu
+trition</a>
+pages\health\guid
+es\diarrhea\index
+.html:26:<a href=
+"../../../fitness
+/index.html">Fitn
+ess</a>
+pages\health\guid
+es\diarrhea\index
+.html:27:<a href=
+"../../../../tool
+s/index.html">Too
+ls</a>
+pages\health\guid
+es\diarrhea\index
+.html:28:<a href=
+"../../../hi/inde
+x.html">हिंदी</a>
+pages\health\guid
+es\diarrhea\index
+.html:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Digestive 
+Health</div>
+pages\health\guid
+es\diarrhea\index
+.html:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\diarrhea\index
+.html:61:<p><a hr
+ef="../headache/i
+ndex.html">Headac
+he</a> · <a href=
+"../fever/index.h
+tml">Fever</a> · 
+<a href="../cough
+/index.html">Coug
+h</a> · <a href="
+../fatigue/index.
+html">Fatigue</a>
+ · <a href="../sl
+eep/index.html">S
+leep</a> · <a hre
+f="../hydration/i
+ndex.html">Hydrat
+ion</a></p>
+pages\health\guid
+es\diarrhea\index
+.html:71:<footer>
+<div class="wrap"
+><strong>HealthMe
+lo</strong><p>Hea
+lth Made Simple 
+— clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\dizziness\inde
+x.html:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\dizziness\inde
+x.html:23:<a href
+="../../../index.
+html">Home</a>
+pages\health\guid
+es\dizziness\inde
+x.html:24:<a href
+="../../index.htm
+l">Health</a>
+pages\health\guid
+es\dizziness\inde
+x.html:25:<a href
+="../../../nutrit
+ion/index.html">N
+utrition</a>
+pages\health\guid
+es\dizziness\inde
+x.html:26:<a href
+="../../../fitnes
+s/index.html">Fit
+ness</a>
+pages\health\guid
+es\dizziness\inde
+x.html:27:<a href
+="../../../../too
+ls/index.html">To
+ols</a>
+pages\health\guid
+es\dizziness\inde
+x.html:28:<a href
+="../../../hi/ind
+ex.html">हिंदी</a
+>
+pages\health\guid
+es\dizziness\inde
+x.html:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Symptoms</div>
+pages\health\guid
+es\dizziness\inde
+x.html:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\dizziness\inde
+x.html:61:<p><a h
+ref="../headache/
+index.html">Heada
+che</a> · <a href
+="../fever/index.
+html">Fever</a> 
+· <a href="../cou
+gh/index.html">Co
+ugh</a> · <a href
+="../fatigue/inde
+x.html">Fatigue</
+a> · <a href="../
+sleep/index.html"
+>Sleep</a> · <a h
+ref="../hydration
+/index.html">Hydr
+ation</a></p>
+pages\health\guid
+es\dizziness\inde
+x.html:71:<footer
+><div class="wrap
+"><strong>HealthM
+elo</strong><p>He
+alth Made Simple 
+— clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\fatigue\index.
+html:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\fatigue\index.
+html:23:<a href="
+../../../index.ht
+ml">Home</a>
+pages\health\guid
+es\fatigue\index.
+html:24:<a href="
+../../index.html"
+>Health</a>
+pages\health\guid
+es\fatigue\index.
+html:25:<a href="
+../../../nutritio
+n/index.html">Nut
+rition</a>
+pages\health\guid
+es\fatigue\index.
+html:26:<a href="
+../../../fitness/
+index.html">Fitne
+ss</a>
+pages\health\guid
+es\fatigue\index.
+html:27:<a href="
+../../../../tools
+/index.html">Tool
+s</a>
+pages\health\guid
+es\fatigue\index.
+html:28:<a href="
+../../../hi/index
+.html">हिंदी</a>
+pages\health\guid
+es\fatigue\index.
+html:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Symptoms</div>
+pages\health\guid
+es\fatigue\index.
+html:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\fatigue\index.
+html:61:<p><a hre
+f="../headache/in
+dex.html">Headach
+e</a> · <a href="
+../fever/index.ht
+ml">Fever</a> · 
+<a href="../cough
+/index.html">Coug
+h</a> · <a href="
+../fatigue/index.
+html">Fatigue</a>
+ · <a href="../sl
+eep/index.html">S
+leep</a> · <a hre
+f="../hydration/i
+ndex.html">Hydrat
+ion</a></p>
+pages\health\guid
+es\fatigue\index.
+html:71:<footer><
+div class="wrap">
+<strong>HealthMel
+o</strong><p>Heal
+th Made Simple — 
+clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\fever\index.ht
+ml:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\fever\index.ht
+ml:23:<a href="..
+/../../index.html
+">Home</a>
+pages\health\guid
+es\fever\index.ht
+ml:24:<a href="..
+/../index.html">H
+ealth</a>
+pages\health\guid
+es\fever\index.ht
+ml:25:<a href="..
+/../../nutrition/
+index.html">Nutri
+tion</a>
+pages\health\guid
+es\fever\index.ht
+ml:26:<a href="..
+/../../fitness/in
+dex.html">Fitness
+</a>
+pages\health\guid
+es\fever\index.ht
+ml:27:<a href="..
+/../../../tools/i
+ndex.html">Tools<
+/a>
+pages\health\guid
+es\fever\index.ht
+ml:28:<a href="..
+/../../hi/index.h
+tml">हिंदी</a>
+pages\health\guid
+es\fever\index.ht
+ml:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Symptoms</div>
+pages\health\guid
+es\fever\index.ht
+ml:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\fever\index.ht
+ml:61:<p><a href=
+"../headache/inde
+x.html">Headache<
+/a> · <a href="..
+/fever/index.html
+">Fever</a> · <a 
+href="../cough/in
+dex.html">Cough</
+a> · <a href="../
+fatigue/index.htm
+l">Fatigue</a> · 
+<a href="../sleep
+/index.html">Slee
+p</a> · <a href="
+../hydration/inde
+x.html">Hydration
+</a></p>
+pages\health\guid
+es\fever\index.ht
+ml:71:<footer><di
+v class="wrap"><s
+trong>HealthMelo<
+/strong><p>Health
+ Made Simple — 
+clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\headache\index
+.html:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\headache\index
+.html:23:<a href=
+"../../../index.h
+tml">Home</a>
+pages\health\guid
+es\headache\index
+.html:24:<a href=
+"../../index.html
+">Health</a>
+pages\health\guid
+es\headache\index
+.html:25:<a href=
+"../../../nutriti
+on/index.html">Nu
+trition</a>
+pages\health\guid
+es\headache\index
+.html:26:<a href=
+"../../../fitness
+/index.html">Fitn
+ess</a>
+pages\health\guid
+es\headache\index
+.html:27:<a href=
+"../../../../tool
+s/index.html">Too
+ls</a>
+pages\health\guid
+es\headache\index
+.html:28:<a href=
+"../../../hi/inde
+x.html">हिंदी</a>
+pages\health\guid
+es\headache\index
+.html:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Symptoms</div>
+pages\health\guid
+es\headache\index
+.html:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\headache\index
+.html:61:<p><a hr
+ef="../headache/i
+ndex.html">Headac
+he</a> · <a href=
+"../fever/index.h
+tml">Fever</a> · 
+<a href="../cough
+/index.html">Coug
+h</a> · <a href="
+../fatigue/index.
+html">Fatigue</a>
+ · <a href="../sl
+eep/index.html">S
+leep</a> · <a hre
+f="../hydration/i
+ndex.html">Hydrat
+ion</a></p>
+pages\health\guid
+es\headache\index
+.html:71:<footer>
+<div class="wrap"
+><strong>HealthMe
+lo</strong><p>Hea
+lth Made Simple 
+— clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\healthy-habits
+\index.html:22:<a
+ class="brand" hr
+ef="../../../inde
+x.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\healthy-habits
+\index.html:23:<a
+ href="../../../i
+ndex.html">Home</
+a>
+pages\health\guid
+es\healthy-habits
+\index.html:24:<a
+ href="../../inde
+x.html">Health</a
+>
+pages\health\guid
+es\healthy-habits
+\index.html:25:<a
+ href="../../../n
+utrition/index.ht
+ml">Nutrition</a>
+pages\health\guid
+es\healthy-habits
+\index.html:26:<a
+ href="../../../f
+itness/index.html
+">Fitness</a>
+pages\health\guid
+es\healthy-habits
+\index.html:27:<a
+ href="../../../.
+./tools/index.htm
+l">Tools</a>
+pages\health\guid
+es\healthy-habits
+\index.html:28:<a
+ href="../../../h
+i/index.html">हिं
+दी</a>
+pages\health\guid
+es\healthy-habits
+\index.html:32:<d
+iv 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Prevention</div>
+pages\health\guid
+es\healthy-habits
+\index.html:36:<a
+ class="btn" href
+="../../index.htm
+l">← Back to 
+Health</a>
+pages\health\guid
+es\healthy-habits
+\index.html:61:<p
+><a href="../head
+ache/index.html">
+Headache</a> · 
+<a href="../fever
+/index.html">Feve
+r</a> · <a href="
+../cough/index.ht
+ml">Cough</a> · 
+<a href="../fatig
+ue/index.html">Fa
+tigue</a> · <a hr
+ef="../sleep/inde
+x.html">Sleep</a>
+ · <a href="../hy
+dration/index.htm
+l">Hydration</a><
+/p>
+pages\health\guid
+es\healthy-habits
+\index.html:71:<f
+ooter><div class=
+"wrap"><strong>He
+althMelo</strong>
+<p>Health Made 
+Simple — clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+195:<a 
+class="logo" href
+="../../../index.
+html">HealthMelo<
+/a>
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+198:<a href="../.
+./../index.html">
+Home</a>
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+199:<a href="../.
+./index.html">Hea
+lth</a>
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+200:<a href="../.
+./../nutrition/in
+dex.html">Nutriti
+on</a>
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+201:<a href="../.
+./../fitness/inde
+x.html">Fitness</
+a>
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+202:<a href="../.
+./../../tools/ind
+ex.html">Tools</a
+>
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+203:<a href="../.
+./../hi/index.htm
+l">हिंदी</a>
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+212:<a href="../.
+./../index.html">
+Home</a> ›
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+213:<a href="../.
+./index.html">Hea
+lth</a> ›
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+407:<a href="../.
+./index.html"><st
+rong>Health Guide
+s</strong></a>
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+412:<a href="../.
+./../nutrition/in
+dex.html"><strong
+>Nutrition</stron
+g></a>
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+417:<a href="../.
+./../fitness/inde
+x.html"><strong>F
+itness</strong></
+a>
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+422:<a href="../.
+./../../tools/ind
+ex.html"><strong>
+Health Tools</str
+ong></a>
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+462:<a href="../.
+./../index.html">
+Home</a> ·
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+463:<a href="../.
+./index.html">Hea
+lth</a> ·
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+464:<a href="../.
+./../nutrition/in
+dex.html">Nutriti
+on</a> ·
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+465:<a href="../.
+./../fitness/inde
+x.html">Fitness</
+a> ·
+pages\health\guid
+es\high-blood-pre
+ssure\index.html:
+466:<a href="../.
+./../../tools/ind
+ex.html">Tools</a
+>
+pages\health\guid
+es\hydration\inde
+x.html:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\hydration\inde
+x.html:23:<a href
+="../../../index.
+html">Home</a>
+pages\health\guid
+es\hydration\inde
+x.html:24:<a href
+="../../index.htm
+l">Health</a>
+pages\health\guid
+es\hydration\inde
+x.html:25:<a href
+="../../../nutrit
+ion/index.html">N
+utrition</a>
+pages\health\guid
+es\hydration\inde
+x.html:26:<a href
+="../../../fitnes
+s/index.html">Fit
+ness</a>
+pages\health\guid
+es\hydration\inde
+x.html:27:<a href
+="../../../../too
+ls/index.html">To
+ols</a>
+pages\health\guid
+es\hydration\inde
+x.html:28:<a href
+="../../../hi/ind
+ex.html">हिंदी</a
+>
+pages\health\guid
+es\hydration\inde
+x.html:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Wellness</div>
+pages\health\guid
+es\hydration\inde
+x.html:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\hydration\inde
+x.html:61:<p><a h
+ref="../headache/
+index.html">Heada
+che</a> · <a href
+="../fever/index.
+html">Fever</a> 
+· <a href="../cou
+gh/index.html">Co
+ugh</a> · <a href
+="../fatigue/inde
+x.html">Fatigue</
+a> · <a href="../
+sleep/index.html"
+>Sleep</a> · <a h
+ref="../hydration
+/index.html">Hydr
+ation</a></p>
+pages\health\guid
+es\hydration\inde
+x.html:71:<footer
+><div class="wrap
+"><strong>HealthM
+elo</strong><p>He
+alth Made Simple 
+— clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\joint-pain\ind
+ex.html:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\joint-pain\ind
+ex.html:23:<a hre
+f="../../../index
+.html">Home</a>
+pages\health\guid
+es\joint-pain\ind
+ex.html:24:<a hre
+f="../../index.ht
+ml">Health</a>
+pages\health\guid
+es\joint-pain\ind
+ex.html:25:<a hre
+f="../../../nutri
+tion/index.html">
+Nutrition</a>
+pages\health\guid
+es\joint-pain\ind
+ex.html:26:<a hre
+f="../../../fitne
+ss/index.html">Fi
+tness</a>
+pages\health\guid
+es\joint-pain\ind
+ex.html:27:<a hre
+f="../../../../to
+ols/index.html">T
+ools</a>
+pages\health\guid
+es\joint-pain\ind
+ex.html:28:<a hre
+f="../../../hi/in
+dex.html">हिंदी</
+a>
+pages\health\guid
+es\joint-pain\ind
+ex.html:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › Pain & 
+Mobility</div>
+pages\health\guid
+es\joint-pain\ind
+ex.html:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\joint-pain\ind
+ex.html:61:<p><a 
+href="../headache
+/index.html">Head
+ache</a> · <a hre
+f="../fever/index
+.html">Fever</a> 
+· <a href="../cou
+gh/index.html">Co
+ugh</a> · <a href
+="../fatigue/inde
+x.html">Fatigue</
+a> · <a href="../
+sleep/index.html"
+>Sleep</a> · <a h
+ref="../hydration
+/index.html">Hydr
+ation</a></p>
+pages\health\guid
+es\joint-pain\ind
+ex.html:71:<foote
+r><div class="wra
+p"><strong>Health
+Melo</strong><p>H
+ealth Made 
+Simple — clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\nausea\index.h
+tml:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\nausea\index.h
+tml:23:<a href=".
+./../../index.htm
+l">Home</a>
+pages\health\guid
+es\nausea\index.h
+tml:24:<a href=".
+./../index.html">
+Health</a>
+pages\health\guid
+es\nausea\index.h
+tml:25:<a href=".
+./../../nutrition
+/index.html">Nutr
+ition</a>
+pages\health\guid
+es\nausea\index.h
+tml:26:<a href=".
+./../../fitness/i
+ndex.html">Fitnes
+s</a>
+pages\health\guid
+es\nausea\index.h
+tml:27:<a href=".
+./../../../tools/
+index.html">Tools
+</a>
+pages\health\guid
+es\nausea\index.h
+tml:28:<a href=".
+./../../hi/index.
+html">हिंदी</a>
+pages\health\guid
+es\nausea\index.h
+tml:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Symptoms</div>
+pages\health\guid
+es\nausea\index.h
+tml:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\nausea\index.h
+tml:61:<p><a href
+="../headache/ind
+ex.html">Headache
+</a> · <a href=".
+./fever/index.htm
+l">Fever</a> · 
+<a href="../cough
+/index.html">Coug
+h</a> · <a href="
+../fatigue/index.
+html">Fatigue</a>
+ · <a href="../sl
+eep/index.html">S
+leep</a> · <a hre
+f="../hydration/i
+ndex.html">Hydrat
+ion</a></p>
+pages\health\guid
+es\nausea\index.h
+tml:71:<footer><d
+iv class="wrap"><
+strong>HealthMelo
+</strong><p>Healt
+h Made Simple — 
+clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\sleep\index.ht
+ml:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\sleep\index.ht
+ml:23:<a href="..
+/../../index.html
+">Home</a>
+pages\health\guid
+es\sleep\index.ht
+ml:24:<a href="..
+/../index.html">H
+ealth</a>
+pages\health\guid
+es\sleep\index.ht
+ml:25:<a href="..
+/../../nutrition/
+index.html">Nutri
+tion</a>
+pages\health\guid
+es\sleep\index.ht
+ml:26:<a href="..
+/../../fitness/in
+dex.html">Fitness
+</a>
+pages\health\guid
+es\sleep\index.ht
+ml:27:<a href="..
+/../../../tools/i
+ndex.html">Tools<
+/a>
+pages\health\guid
+es\sleep\index.ht
+ml:28:<a href="..
+/../../hi/index.h
+tml">हिंदी</a>
+pages\health\guid
+es\sleep\index.ht
+ml:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Wellness</div>
+pages\health\guid
+es\sleep\index.ht
+ml:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\sleep\index.ht
+ml:61:<p><a href=
+"../headache/inde
+x.html">Headache<
+/a> · <a href="..
+/fever/index.html
+">Fever</a> · <a 
+href="../cough/in
+dex.html">Cough</
+a> · <a href="../
+fatigue/index.htm
+l">Fatigue</a> · 
+<a href="../sleep
+/index.html">Slee
+p</a> · <a href="
+../hydration/inde
+x.html">Hydration
+</a></p>
+pages\health\guid
+es\sleep\index.ht
+ml:71:<footer><di
+v class="wrap"><s
+trong>HealthMelo<
+/strong><p>Health
+ Made Simple — 
+clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\sore-throat\in
+dex.html:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\sore-throat\in
+dex.html:23:<a hr
+ef="../../../inde
+x.html">Home</a>
+pages\health\guid
+es\sore-throat\in
+dex.html:24:<a hr
+ef="../../index.h
+tml">Health</a>
+pages\health\guid
+es\sore-throat\in
+dex.html:25:<a hr
+ef="../../../nutr
+ition/index.html"
+>Nutrition</a>
+pages\health\guid
+es\sore-throat\in
+dex.html:26:<a hr
+ef="../../../fitn
+ess/index.html">F
+itness</a>
+pages\health\guid
+es\sore-throat\in
+dex.html:27:<a hr
+ef="../../../../t
+ools/index.html">
+Tools</a>
+pages\health\guid
+es\sore-throat\in
+dex.html:28:<a hr
+ef="../../../hi/i
+ndex.html">हिंदी<
+/a>
+pages\health\guid
+es\sore-throat\in
+dex.html:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Symptoms</div>
+pages\health\guid
+es\sore-throat\in
+dex.html:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\sore-throat\in
+dex.html:61:<p><a
+ href="../headach
+e/index.html">Hea
+dache</a> · <a hr
+ef="../fever/inde
+x.html">Fever</a>
+ · <a href="../co
+ugh/index.html">C
+ough</a> · <a hre
+f="../fatigue/ind
+ex.html">Fatigue<
+/a> · <a href="..
+/sleep/index.html
+">Sleep</a> · <a 
+href="../hydratio
+n/index.html">Hyd
+ration</a></p>
+pages\health\guid
+es\sore-throat\in
+dex.html:71:<foot
+er><div class="wr
+ap"><strong>Healt
+hMelo</strong><p>
+Health Made 
+Simple — clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\stomach-pain\i
+ndex.html:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\stomach-pain\i
+ndex.html:23:<a h
+ref="../../../ind
+ex.html">Home</a>
+pages\health\guid
+es\stomach-pain\i
+ndex.html:24:<a h
+ref="../../index.
+html">Health</a>
+pages\health\guid
+es\stomach-pain\i
+ndex.html:25:<a h
+ref="../../../nut
+rition/index.html
+">Nutrition</a>
+pages\health\guid
+es\stomach-pain\i
+ndex.html:26:<a h
+ref="../../../fit
+ness/index.html">
+Fitness</a>
+pages\health\guid
+es\stomach-pain\i
+ndex.html:27:<a h
+ref="../../../../
+tools/index.html"
+>Tools</a>
+pages\health\guid
+es\stomach-pain\i
+ndex.html:28:<a h
+ref="../../../hi/
+index.html">हिंदी
+</a>
+pages\health\guid
+es\stomach-pain\i
+ndex.html:32:<div
+ 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Symptoms</div>
+pages\health\guid
+es\stomach-pain\i
+ndex.html:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\stomach-pain\i
+ndex.html:61:<p><
+a href="../headac
+he/index.html">He
+adache</a> · <a h
+ref="../fever/ind
+ex.html">Fever</a
+> · <a href="../c
+ough/index.html">
+Cough</a> · <a hr
+ef="../fatigue/in
+dex.html">Fatigue
+</a> · <a href=".
+./sleep/index.htm
+l">Sleep</a> · 
+<a href="../hydra
+tion/index.html">
+Hydration</a></p>
+pages\health\guid
+es\stomach-pain\i
+ndex.html:71:<foo
+ter><div class="w
+rap"><strong>Heal
+thMelo</strong><p
+>Health Made 
+Simple — clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\health\guid
+es\stress\index.h
+tml:22:<a 
+class="brand" hre
+f="../../../index
+.html">❤️ 
+HealthMelo</a>
+pages\health\guid
+es\stress\index.h
+tml:23:<a href=".
+./../../index.htm
+l">Home</a>
+pages\health\guid
+es\stress\index.h
+tml:24:<a href=".
+./../index.html">
+Health</a>
+pages\health\guid
+es\stress\index.h
+tml:25:<a href=".
+./../../nutrition
+/index.html">Nutr
+ition</a>
+pages\health\guid
+es\stress\index.h
+tml:26:<a href=".
+./../../fitness/i
+ndex.html">Fitnes
+s</a>
+pages\health\guid
+es\stress\index.h
+tml:27:<a href=".
+./../../../tools/
+index.html">Tools
+</a>
+pages\health\guid
+es\stress\index.h
+tml:28:<a href=".
+./../../hi/index.
+html">हिंदी</a>
+pages\health\guid
+es\stress\index.h
+tml:32:<div 
+class="crumb"><a 
+href="../../../in
+dex.html">Home</a
+> › <a href="../.
+./index.html">Hea
+lth</a> › 
+Wellness</div>
+pages\health\guid
+es\stress\index.h
+tml:36:<a 
+class="btn" href=
+"../../index.html
+">← Back to 
+Health</a>
+pages\health\guid
+es\stress\index.h
+tml:61:<p><a href
+="../headache/ind
+ex.html">Headache
+</a> · <a href=".
+./fever/index.htm
+l">Fever</a> · 
+<a href="../cough
+/index.html">Coug
+h</a> · <a href="
+../fatigue/index.
+html">Fatigue</a>
+ · <a href="../sl
+eep/index.html">S
+leep</a> · <a hre
+f="../hydration/i
+ndex.html">Hydrat
+ion</a></p>
+pages\health\guid
+es\stress\index.h
+tml:71:<footer><d
+iv class="wrap"><
+strong>HealthMelo
+</strong><p>Healt
+h Made Simple — 
+clear 
+educational 
+information 
+about health, 
+nutrition and fit
+ness.</p><p><a hr
+ef="../../../inde
+x.html">Home</a> 
+· <a href="../../
+index.html">Healt
+h</a> · <a href="
+../../../nutritio
+n/index.html">Nut
+rition</a> · <a h
+ref="../../../fit
+ness/index.html">
+Fitness</a> · <a 
+href="../../../..
+/tools/index.html
+">Health Tools</a
+></p><small>© 
+2026 HealthMelo. 
+All rights reserv
+ed.</small></div>
+</footer>
+pages\hi\index.ht
+ml:375:<a 
+class="logo" href
+="../../frontend/
+index.html">
+pages\hi\index.ht
+ml:381:<a href=".
+./../frontend/ind
+ex.html">
+pages\hi\index.ht
+ml:385:<a href=".
+./health/index.ht
+ml">
+pages\hi\index.ht
+ml:389:<a href=".
+./nutrition/index
+.html">
+pages\hi\index.ht
+ml:393:<a href=".
+./fitness/index.h
+tml">
+pages\hi\index.ht
+ml:397:<a href=".
+./tools/index.htm
+l">
+pages\hi\index.ht
+ml:401:<a href=".
+./hi/index.html">
+pages\hi\index.ht
+ml:465:<a 
+class="card" href
+="../health/index
+.html">
+pages\hi\index.ht
+ml:487:<a 
+class="card" href
+="../nutrition/in
+dex.html">
+pages\hi\index.ht
+ml:509:<a 
+class="card" href
+="../fitness/inde
+x.html">
+pages\hi\index.ht
+ml:531:<a 
+class="card" href
+="../health/index
+.html">
+pages\hi\index.ht
+ml:572:<a class="
+tool-card" href="
+../../tools/bmi/i
+ndex.html">
+pages\hi\index.ht
+ml:593:<a class="
+tool-card" href="
+../../tools/bmr/i
+ndex.html">
+pages\hi\index.ht
+ml:614:<a class="
+tool-card" href="
+../../tools/calor
+ie/index.html">
+pages\hi\index.ht
+ml:636:<a class="
+tool-card" href="
+../../tools/water
+/index.html">
+pages\hi\index.ht
+ml:657:<a class="
+tool-card" href="
+../../tools/ideal
+-weight/index.htm
+l">
+pages\hi\index.ht
+ml:678:<a class="
+tool-card" href="
+../tools/index.ht
+ml">
+pages\hi\index.ht
+ml:863:<a href=".
+./../frontend/ind
+ex.html">
+pages\hi\index.ht
+ml:867:<a href=".
+./health/index.ht
+ml">
+pages\hi\index.ht
+ml:871:<a href=".
+./nutrition/index
+.html">
+pages\hi\index.ht
+ml:875:<a href=".
+./fitness/index.h
+tml">
+pages\hi\index.ht
+ml:879:<a href=".
+./tools/index.htm
+l">
+pages\hi\index.ht
+ml:883:<a href=".
+./hi/index.html">
+pages\nutrition\i
+ndex.html:1196:<a
+ class="logo" hre
+f="../../frontend
+/index.html" aria
+-label="HealthMel
+o Home">
+pages\nutrition\i
+ndex.html:1211:<a
+ href="../../fron
+tend/index.html">
+Home</a>
+pages\nutrition\i
+ndex.html:1213:<a
+ href="../health/
+index.html">Healt
+h</a>
+pages\nutrition\i
+ndex.html:1215:<a
+ href="../nutriti
+on/index.html" 
+class="active" ar
+ia-current="page"
+>Nutrition</a>
+pages\nutrition\i
+ndex.html:1217:<a
+ href="../fitness
+/index.html">Fitn
+ess</a>
+pages\nutrition\i
+ndex.html:1219:<a
+ href="../../tool
+s/index.html">Too
+ls</a>
+pages\nutrition\i
+ndex.html:1221:<a
+ href="../hi/inde
+x.html">हिंदी</a>
+pages\nutrition\i
+ndex.html:1237:<a
+ href="../../fron
+tend/index.html">
+Home</a>
+pages\nutrition\i
+ndex.html:1914:<a
+ href="../../tool
+s/bmi/index.html"
+>
+pages\nutrition\i
+ndex.html:1930:<a
+ href="../../tool
+s/calorie/index.h
+tml">
+pages\nutrition\i
+ndex.html:1946:<a
+ href="../../tool
+s/bmr/index.html"
+>
+pages\nutrition\i
+ndex.html:1962:<a
+ href="../../tool
+s/water/index.htm
+l">
+pages\nutrition\i
+ndex.html:1978:<a
+ href="../../tool
+s/ideal-weight/in
+dex.html">
+pages\nutrition\i
+ndex.html:2016:<a
+ href="../health/
+index.html">
+pages\nutrition\i
+ndex.html:2031:<a
+ href="../fitness
+/index.html">
+pages\nutrition\i
+ndex.html:2046:<a
+ href="../../tool
+s/index.html">
+pages\nutrition\i
+ndex.html:2345:<a
+ href="../../fron
+tend/index.html">
+Home</a>
+pages\nutrition\i
+ndex.html:2347:<a
+ href="../health/
+index.html">Healt
+h</a>
+pages\nutrition\i
+ndex.html:2349:<a
+ href="../nutriti
+on/index.html">Nu
+trition</a>
+pages\nutrition\i
+ndex.html:2351:<a
+ href="../fitness
+/index.html">Fitn
+ess</a>
+pages\nutrition\i
+ndex.html:2359:<a
+ href="../../tool
+s/bmi/index.html"
+>BMI 
+Calculator</a>
+pages\nutrition\i
+ndex.html:2361:<a
+ href="../../tool
+s/calorie/index.h
+tml">Calorie 
+Calculator</a>
+pages\nutrition\i
+ndex.html:2363:<a
+ href="../../tool
+s/bmr/index.html"
+>BMR 
+Calculator</a>
+pages\nutrition\i
+ndex.html:2365:<a
+ href="../../tool
+s/water/index.htm
+l">Water 
+Intake</a>
+pages\nutrition\i
+ndex.html:2367:<a
+ href="../../tool
+s/ideal-weight/in
+dex.html">Ideal 
+Weight</a>
+pages\nutrition\i
+ndex.html:2375:<a
+ href="../../tool
+s/index.html">Hea
+lth Tools</a>
+pages\nutrition\i
+ndex.html:2377:<a
+ href="../hi/inde
+x.html">हिंदी</a>
+pages\privacy\ind
+ex.html:149:<a 
+class="logo" href
+="../../frontend/
+index.html">
+pages\privacy\ind
+ex.html:155:<a hr
+ef="../../fronten
+d/index.html">Hom
+e</a>
+pages\privacy\ind
+ex.html:156:<a hr
+ef="../health/ind
+ex.html">Health</
+a>
+pages\privacy\ind
+ex.html:157:<a hr
+ef="../nutrition/
+index.html">Nutri
+tion</a>
+pages\privacy\ind
+ex.html:158:<a hr
+ef="../fitness/in
+dex.html">Fitness
+</a>
+pages\privacy\ind
+ex.html:159:<a hr
+ef="../hi/index.h
+tml">हिंदी</a>
+pages\privacy\ind
+ex.html:304:<a hr
+ef="../contact/in
+dex.html">Contact
+ HealthMelo</a>
+pages\tools\index
+.html:400:<a 
+class="logo" href
+="../../frontend/
+index.html">
+pages\tools\index
+.html:406:<a href
+="../../frontend/
+index.html">
+pages\tools\index
+.html:410:<a href
+="../health/index
+.html">
+pages\tools\index
+.html:414:<a href
+="../nutrition/in
+dex.html">
+pages\tools\index
+.html:418:<a href
+="../fitness/inde
+x.html">
+pages\tools\index
+.html:422:<a href
+="../hi/index.htm
+l">
+pages\tools\index
+.html:461:<a 
+class="card" href
+="../../tools/bmi
+/index.html">
+pages\tools\index
+.html:482:<a 
+class="card" href
+="../../tools/bmr
+/index.html">
+pages\tools\index
+.html:504:<a 
+class="card" href
+="../../tools/cal
+orie/index.html">
+pages\tools\index
+.html:526:<a 
+class="card" href
+="../../tools/wat
+er/index.html">
+pages\tools\index
+.html:547:<a 
+class="card" href
+="../../tools/ide
+al-weight/index.h
+tml">
+pages\tools\index
+.html:590:href=".
+./../tools/calori
+e/index.html"
+pages\tools\index
+.html:782:<a href
+="../../frontend/
+index.html">
+pages\tools\index
+.html:786:<a href
+="../health/index
+.html">
+pages\tools\index
+.html:790:<a href
+="../nutrition/in
+dex.html">
+pages\tools\index
+.html:794:<a href
+="../fitness/inde
+x.html">
+pages\tools\index
+.html:798:<a href
+="../hi/index.htm
+l">
+tools\bmi\index.h
+tml:499:<a 
+class="logo" href
+="../../frontend/
+index.html">
+tools\bmi\index.h
+tml:505:<a href="
+../../frontend/in
+dex.html">
+tools\bmi\index.h
+tml:509:<a href="
+../../pages/healt
+h/index.html">
+tools\bmi\index.h
+tml:513:<a href="
+../../pages/nutri
+tion/index.html">
+tools\bmi\index.h
+tml:517:<a href="
+../../pages/fitne
+ss/index.html">
+tools\bmi\index.h
+tml:521:<a href="
+../../pages/tools
+/index.html">
+tools\bmi\index.h
+tml:525:<a href="
+../../pages/hi/in
+dex.html">
+tools\bmi\index.h
+tml:864:href="../
+bmr/index.html"
+tools\bmi\index.h
+tml:871:href="../
+calorie/index.htm
+l"
+tools\bmi\index.h
+tml:878:href="../
+water/index.html"
+tools\bmi\index.h
+tml:885:href="../
+ideal-weight/inde
+x.html"
+tools\bmi\index.h
+tml:938:<a href="
+../../frontend/in
+dex.html">
+tools\bmi\index.h
+tml:942:<a href="
+../../pages/healt
+h/index.html">
+tools\bmi\index.h
+tml:946:<a href="
+../../pages/nutri
+tion/index.html">
+tools\bmi\index.h
+tml:950:<a href="
+../../pages/fitne
+ss/index.html">
+tools\bmi\index.h
+tml:954:<a href="
+../../pages/tools
+/index.html">
+tools\bmi\index.h
+tml:958:<a href="
+../../pages/hi/in
+dex.html">
+tools\bmr\index.h
+tml:232:<a 
+class="logo" href
+="../../frontend/
+index.html">
+tools\bmr\index.h
+tml:237:<a href="
+../../frontend/in
+dex.html">Home</a
+>
+tools\bmr\index.h
+tml:238:<a href="
+../../pages/healt
+h/index.html">Hea
+lth</a>
+tools\bmr\index.h
+tml:239:<a href="
+../../pages/nutri
+tion/index.html">
+Nutrition</a>
+tools\bmr\index.h
+tml:240:<a href="
+../../pages/fitne
+ss/index.html">Fi
+tness</a>
+tools\bmr\index.h
+tml:241:<a href="
+../../pages/tools
+/index.html">Tool
+s</a>
+tools\bmr\index.h
+tml:242:<a href="
+../../pages/hi/in
+dex.html">हिंदी</
+a>
+tools\bmr\index.h
+tml:433:<a href="
+../../frontend/in
+dex.html">Home</a
+>
+tools\bmr\index.h
+tml:434:<a href="
+../../pages/healt
+h/index.html">Hea
+lth</a>
+tools\bmr\index.h
+tml:435:<a href="
+../../pages/nutri
+tion/index.html">
+Nutrition</a>
+tools\bmr\index.h
+tml:436:<a href="
+../../pages/fitne
+ss/index.html">Fi
+tness</a>
+tools\bmr\index.h
+tml:437:<a href="
+../../pages/tools
+/index.html">Tool
+s</a>
+tools\bmr\index.h
+tml:438:<a href="
+../../pages/hi/in
+dex.html">हिंदी</
+a>
+tools\calorie\ind
+ex.html:685:<a 
+class="logo" href
+="../../frontend/
+index.html">
+tools\calorie\ind
+ex.html:691:<a hr
+ef="../../fronten
+d/index.html">Hom
+e</a>
+tools\calorie\ind
+ex.html:693:<a hr
+ef="../../pages/h
+ealth/index.html"
+>Health</a>
+tools\calorie\ind
+ex.html:695:<a hr
+ef="../../pages/n
+utrition/index.ht
+ml">Nutrition</a>
+tools\calorie\ind
+ex.html:697:<a hr
+ef="../../pages/f
+itness/index.html
+">Fitness</a>
+tools\calorie\ind
+ex.html:699:<a hr
+ef="../../pages/t
+ools/index.html">
+Tools</a>
+tools\calorie\ind
+ex.html:701:<a hr
+ef="../../pages/h
+i/index.html">हिं
+दी</a>
+tools\calorie\ind
+ex.html:1342:<a h
+ref="../../pages/
+nutrition/index.h
+tml">
+tools\calorie\ind
+ex.html:1346:<a h
+ref="../../pages/
+fitness/index.htm
+l">
+tools\calorie\ind
+ex.html:1350:<a h
+ref="../../pages/
+health/index.html
+">
+tools\calorie\ind
+ex.html:1354:<a h
+ref="../../pages/
+tools/index.html"
+>
+tools\calorie\ind
+ex.html:1407:<a h
+ref="../../fronte
+nd/index.html">
+tools\calorie\ind
+ex.html:1411:<a h
+ref="../../pages/
+health/index.html
+">
+tools\calorie\ind
+ex.html:1415:<a h
+ref="../../pages/
+nutrition/index.h
+tml">
+tools\calorie\ind
+ex.html:1419:<a h
+ref="../../pages/
+fitness/index.htm
+l">
+tools\calorie\ind
+ex.html:1423:<a h
+ref="../../pages/
+tools/index.html"
+>
+tools\calorie\ind
+ex.html:1427:<a h
+ref="../../pages/
+hi/index.html">
+tools\ideal-weigh
+t\index.html:580:
+<a class="logo" h
+ref="../../fronte
+nd/index.html">
+tools\ideal-weigh
+t\index.html:586:
+<a href="../../fr
+ontend/index.html
+">
+tools\ideal-weigh
+t\index.html:590:
+<a href="../../pa
+ges/health/index.
+html">
+tools\ideal-weigh
+t\index.html:594:
+<a href="../../pa
+ges/nutrition/ind
+ex.html">
+tools\ideal-weigh
+t\index.html:598:
+<a href="../../pa
+ges/fitness/index
+.html">
+tools\ideal-weigh
+t\index.html:602:
+<a href="../../pa
+ges/tools/index.h
+tml">
+tools\ideal-weigh
+t\index.html:606:
+<a href="../../pa
+ges/hi/index.html
+">
+tools\ideal-weigh
+t\index.html:925:
+href="../bmi/inde
+x.html"
+tools\ideal-weigh
+t\index.html:933:
+href="../bmr/inde
+x.html"
+tools\ideal-weigh
+t\index.html:941:
+href="../calorie/
+index.html"
+tools\ideal-weigh
+t\index.html:949:
+href="../water/in
+dex.html"
+tools\ideal-weigh
+t\index.html:1000
+:<a href="../../f
+rontend/index.htm
+l">
+tools\ideal-weigh
+t\index.html:1004
+:<a href="../../p
+ages/health/index
+.html">
+tools\ideal-weigh
+t\index.html:1008
+:<a href="../../p
+ages/nutrition/in
+dex.html">
+tools\ideal-weigh
+t\index.html:1012
+:<a href="../../p
+ages/fitness/inde
+x.html">
+tools\ideal-weigh
+t\index.html:1016
+:<a href="../../p
+ages/tools/index.
+html">
+tools\ideal-weigh
+t\index.html:1020
+:<a href="../../p
+ages/hi/index.htm
+l">
+tools\water\index
+.html:576:<a 
+class="logo" href
+="../../frontend/
+index.html">
+tools\water\index
+.html:582:<a href
+="../../frontend/
+index.html">
+tools\water\index
+.html:586:<a href
+="../../pages/hea
+lth/index.html">
+tools\water\index
+.html:590:<a href
+="../../pages/nut
+rition/index.html
+">
+tools\water\index
+.html:594:<a href
+="../../pages/fit
+ness/index.html">
+tools\water\index
+.html:598:<a href
+="../../pages/too
+ls/index.html">
+tools\water\index
+.html:602:<a href
+="../../pages/hi/
+index.html">
+tools\water\index
+.html:976:href=".
+./bmi/index.html"
+tools\water\index
+.html:984:href=".
+./bmr/index.html"
+tools\water\index
+.html:992:href=".
+./calorie/index.h
+tml"
+tools\water\index
+.html:1000:href="
+../ideal-weight/i
+ndex.html"
+tools\water\index
+.html:1050:<a hre
+f="../../frontend
+/index.html">
+tools\water\index
+.html:1054:<a hre
+f="../../pages/he
+alth/index.html">
+tools\water\index
+.html:1058:<a hre
+f="../../pages/nu
+trition/index.htm
+l">
+tools\water\index
+.html:1062:<a hre
+f="../../pages/fi
+tness/index.html"
+>
+tools\water\index
+.html:1066:<a hre
+f="../../pages/to
+ols/index.html">
+tools\water\index
+.html:1070:<a hre
+f="../../pages/hi
+/index.html">
+
+
