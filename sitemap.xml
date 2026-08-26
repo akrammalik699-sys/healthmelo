@@ -1,98 +1,39 @@
-<!DOCTYPE html>
-<html lang="hi">
-<head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6LVMCEKMEN"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-6LVMCEKMEN');
-  </script>
-  <!-- End Google Analytics -->
-
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>HealthMelo - Health, Nutrition & Fitness Made Simple</title>
-  <meta name="description" content="HealthMelo provides clear educational information about health, nutrition, fitness and wellness.">
-  <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://akrammalik699-sys.github.io/healthmelo/">
-  <meta name="google-site-verification" content="0UHeBs0qg5R4gaVrGlcpbgN5xTMQPoy2z848fTYgDro" />
-
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "HealthMelo - Health, Nutrition & Fitness Made Simple",
-    "url": "https://akrammalik699-sys.github.io/healthmelo/",
-    "isPartOf": {
-      "@type": "WebSite",
-      "name": "HealthMelo",
-      "url": "https://akrammalik699-sys.github.io/healthmelo/"
-    }
-  }
-  </script>
-
-  <meta name="theme-color" content="#0f766e">
-
-  <!-- HEALTHMELO_2_0_SCHEMA -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://akrammalik699-sys.github.io/healthmelo/#organization",
-        "name": "HealthMelo",
-        "url": "https://akrammalik699-sys.github.io/healthmelo/"
-      },
-      {
-        "@type": "WebSite",
-        "@id": "https://akrammalik699-sys.github.io/healthmelo/#website",
-        "name": "HealthMelo",
-        "url": "https://akrammalik699-sys.github.io/healthmelo/",
-        "publisher": {
-          "@id": "https://akrammalik699-sys.github.io/healthmelo/#organization"
-        }
-      }
-    ]
-  }
-  </script>
-  <!-- /HEALTHMELO_2_0_SCHEMA -->
-</head>
-<body>
-
-  <header>
-    <h1>HealthMelo</h1>
-    <nav>
-      <a href="./index.html">Home</a> | 
-      <a href="./pages/health/index.html">Health</a> | 
-      <a href="./pages/nutrition/">Nutrition</a> | 
-      <a href="./pages/fitness/">Fitness</a> | 
-      <a href="./tools/index.html">Health Tools</a>
-    </nav>
-  </header>
-
-  <main>
-    <h2>Health Made Simple</h2>
-    <p>Clear, practical and evidence-informed educational information about health. <a href="./pages/nutrition/">Nutrition</a></p>
-
-    <h2>Explore HealthMelo</h2>
-    <ul>
-      <li><a href="./pages/health/index.html">Health Guides</a></li>
-      <li><a href="./pages/nutrition/">Nutrition</a></li>
-      <li><a href="./pages/fitness/">Fitness &amp; Exercise</a></li>
-      <li><a href="./tools/index.html">Health Calculators</a></li>
-    </ul>
-
-    <h2>Free Health Tools</h2>
-    <ul>
-      <li><a href="./tools/bmi/index.html">BMI Calculator</a></li>
-      <li><a href="./tools/calorie/index.html">Calorie Calculator</a></li>
-      <li><a href="./tools/bmr/index.html">BMR Calculator</a></li>
-      <li><a href="./tools/water/index.html">Water Intake Calculator</a></li>
-    </ul>
-  </main>
-
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://akrammalik699-sys.github.io/healthmelo/</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://akrammalik699-sys.github.io/healthmelo/weight-loss-tips-hindi.html</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://akrammalik699-sys.github.io/healthmelo/tools/index.html</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://akrammalik699-sys.github.io/healthmelo/tools/bmi/index.html</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://akrammalik699-sys.github.io/healthmelo/tools/calorie/index.html</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://akrammalik699-sys.github.io/healthmelo/tools/water/index.html</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
